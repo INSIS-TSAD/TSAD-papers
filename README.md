@@ -2,7 +2,7 @@
 
 This repository mainly contains summaries and interpretations of the papers on time series anomaly detection shared by our team
 
-All summaries and interpertations of papers listed below can be found in the sharers' directory
+**All summaries and interpertations of papers listed below can be found in the sharers' directory**
 
 #### TSAD + Transfer Learning 
  
